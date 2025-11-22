@@ -4,6 +4,8 @@ body{
     padding: 30px 10%;
 }
 
+
+
 .image-style {
     max-height: 300px;
     border: 3px solid #ffffff;
@@ -55,4 +57,12 @@ body{
 
 .right {
     right: 0;
+}
+
+.compozition{
+    display: flex;
+}
+
+.data{
+    margin: 50px 50px;
 }
